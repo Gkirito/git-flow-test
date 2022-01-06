@@ -1,0 +1,3 @@
+export dada {
+  const aaa = {}
+}
